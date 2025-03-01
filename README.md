@@ -1,4 +1,6 @@
 # S3-Static-Website-Hosting-Setup
+![Build Status](https://img.shields.io/github/workflow/status/username/my-s3-static-website/CI)
+
 
 
 # S3 Static Website Hosting
@@ -40,3 +42,5 @@ This project demonstrates how to configure and host a static website using AWS S
           }
       ]
   }
+
+  
